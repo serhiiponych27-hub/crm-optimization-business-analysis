@@ -154,7 +154,7 @@ The optimized CRM process introduces automation and governance.
 
 ### Process Diagram
 
-![TO-BE Process](diagrams:process-to-be-bpmn.png)
+![TO-BE Process](process-to-be-bpmn.png)
 
 ---
 
