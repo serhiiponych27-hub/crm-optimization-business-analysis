@@ -19,8 +19,6 @@ Business Analysis Case Study
 
 CRM optimization project for a Design & Renovation company aimed at improving sales pipeline management, data quality, and revenue forecasting.
 
-⸻
-
 Project Overview
 
 This project demonstrates how business analysis can improve sales operations by introducing structured pipelines, validation rules, automation, and analytics.
@@ -35,7 +33,6 @@ The case study covers the full BA lifecycle:
 	•	backlog management in Jira
 	•	implementation roadmap
 
-⸻
 ## Tools Used
 
 The project uses typical tools from a modern Business Analysis workflow.
@@ -65,7 +62,6 @@ The project uses typical tools from a modern Business Analysis workflow.
 
 - GitHub
 
-⸻
 Business Context
 
 The company provides turnkey interior design and renovation services.
@@ -79,8 +75,6 @@ Key characteristics:
 Consultation → Estimation → Proposal → Contract
 
 The CRM system is used by sales managers to track leads and opportunities.
-
-⸻
 
 Problem Statement
 
@@ -99,8 +93,6 @@ Business consequences
 	•	high risk of losing potential clients
 	•	difficult scaling of the sales team
 
-⸻
-
 Project Goal
 
 Improve sales process governance by introducing:
@@ -110,8 +102,6 @@ Improve sales process governance by introducing:
 	•	KPI framework
 	•	role-based access control
 	•	structured reporting layer
-
-⸻
 
 Scope
 In Scope
@@ -131,8 +121,6 @@ Out of Scope
 	•	production workflow
 	•	design project management
 
-⸻
-
 Stakeholders
 
 Primary stakeholders:
@@ -150,8 +138,6 @@ System owner:
 Project sponsor:
 	•	Business Owner
 
-⸻
-
 AS-IS Process
 
 Before optimization, the sales workflow had several issues:
@@ -164,8 +150,6 @@ Before optimization, the sales workflow had several issues:
 	•	no structured loss analysis
 
 This resulted in poor visibility into the sales pipeline.
-
-⸻
 
 TO-BE Process
 
@@ -182,7 +166,6 @@ Main improvements:
 
 TO-BE Process Diagram
 
-⸻
 Sales Pipeline Structure
 
 Lead Stages
@@ -199,8 +182,6 @@ Opportunity Stages
 	•	Won
 	•	Lost
 
-⸻
-
 Business Rules
 
 Key governance rules implemented in CRM:
@@ -211,7 +192,6 @@ Key governance rules implemented in CRM:
 	•	BR-05 Ownership can be changed only by Head of Sales
 	•	BR-06 SLA violation marks deal as Overdue
 
-⸻
 
 Functional Requirements
 
@@ -229,14 +209,12 @@ Examples of implemented system requirements:
 
 User stories and backlog items were managed in Jira.
 
-⸻
 
 Jira Backlog
 Backlog / Issue List
 Workflow Board
 Example User Story
 
-⸻
 Data Model
 
 The CRM data model supports lead qualification, opportunity management, task tracking, and loss analysis.
@@ -252,7 +230,6 @@ Main entities:
 
 ER Diagram
 
-⸻
 KPI Framework
 
 Key performance indicators used to monitor sales performance:
@@ -266,7 +243,6 @@ Key performance indicators used to monitor sales performance:
 
 KPI Definition Table
 
-⸻
 Reporting Layer
 
 Sales monitoring dashboards provide operational insights.
@@ -277,8 +253,6 @@ Dashboards include:
 	•	Loss Analysis Dashboard
 
 Reporting Layer Design
-
-⸻
 
 Role-Based Access Control
 
@@ -298,8 +272,6 @@ Director
 
 Accountant
 	•	read-only access to pipeline and final amounts
-  
-⸻
 
 Implementation Roadmap
 
@@ -312,8 +284,6 @@ The solution is implemented in multiple phases.
 5️⃣ Monitoring & Optimization
 
 Implementation Plan
-
-⸻
 
 Expected Outcomes
 
@@ -338,22 +308,3 @@ This project demonstrates the following BA artifacts:
 	•	Jira backlog management
 	•	Implementation roadmap
   
-⸻
-
-  ## Repository Structure
-  crm-optimization-business-analysis
-│
-├── confluence
-│   ├── kpi-metrics.png
-│   └── reporting-dashboards.png
-│
-├── diagrams
-│   ├── crm-er-diagram.png
-│   ├── process-to-be-bpmn.png
-│   └── implementation-roadmap.png
-│
-├── jira
-│   ├── backlog.png
-│   ├── workflow-board.png
-│   ├── user-story-lost-reason-1.png
-│   └── user-story-lost-reason-2.png
