@@ -214,7 +214,7 @@ User stories and backlog items were managed in **Jira**.
 
 ### Backlog
 
-![Backlog](jira/backlog.png)
+![Backlog](jira/backlog-list.png)
 
 ### Workflow Board
 
