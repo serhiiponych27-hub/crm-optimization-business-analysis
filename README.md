@@ -355,10 +355,24 @@ The CRM optimization enables:
 
 ```
 crm-optimization-business-analysis
+
+├── docs
+│   ├── executive-summary.md
+│   ├── requirements.md
+│   ├── kpi.md
+│   └── implementation-roadmap.md
 │
 ├── confluence
 │   ├── kpi-metrics.png
-│   └── reporting-dashboards.png
+│   ├── process-to-be-1.png
+│   ├── process-to-be-2.png
+│   ├── process-to-be-3.png
+│   ├── project-overview-1.png
+│   ├── project-overview-2.png
+│   ├── reporting-dashboards.png
+│   ├── requirements-1.png
+│   ├── requirements-2.png
+│   └── requirements-3.png
 │
 ├── diagrams
 │   ├── crm-er-diagram.png
@@ -370,9 +384,9 @@ crm-optimization-business-analysis
 │   ├── workflow-board.png
 │   ├── user-story-lost-reason-1.png
 │   └── user-story-lost-reason-2.png
-```
+│
+└── README.md
 
----
 
 # Key Business Analysis Deliverables
 
