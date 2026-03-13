@@ -242,7 +242,7 @@ The CRM data model supports lead qualification, opportunity management, task tra
 
 ### ER Diagram
 
-![ER Diagram](crm-er-diagram.png)
+![ER Diagram](diagrams/crm-er-diagram.png)
 
 ---
 
