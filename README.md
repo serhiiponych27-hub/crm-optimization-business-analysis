@@ -21,6 +21,38 @@ The project demonstrates a complete BA workflow:
 - implementation roadmap
 
 ---
+#  Tech Stack
+
+### Business Analysis
+
+- Business Process Modeling — BPMN
+- Requirements Documentation — Confluence style documentation
+- Backlog Management — Jira
+- User Stories & Acceptance Criteria
+
+### Data Modeling
+
+- ER Modeling — draw.io
+- Data Structure Design
+- Entity Relationship Diagrams
+
+### Process Modeling
+
+- BPMN Process Diagrams
+- Sales Pipeline Design
+- CRM Workflow Modeling
+
+### Documentation
+
+- Markdown documentation
+- GitHub repository structure
+- Business documentation artifacts
+
+### Version Control
+
+- Git
+- GitHub
+---
 
 # Business Context
 
