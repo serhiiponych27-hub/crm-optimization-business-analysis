@@ -242,7 +242,7 @@ The CRM data model supports lead qualification, opportunity management, task tra
 
 ### ER Diagram
 
-![ER Diagram](diagrams/crm-er-diagram.png)
+![ER Diagram](https://raw.githubusercontent.com/serhiiponych27-hub/crm-optimization-business-analysis/refs/heads/main/diagrams/%20crm-er-diagram.png)
 
 ---
 
@@ -260,7 +260,7 @@ Key performance indicators used to monitor sales performance:
 
 ### KPI Definition
 
-![KPI Metrics](confluence/kpi-metrics.png)
+![KPI Metrics](https://raw.githubusercontent.com/serhiiponych27-hub/crm-optimization-business-analysis/refs/heads/main/confluence/confluence%3Akpi-metrics.png)
 
 ---
 
@@ -276,7 +276,7 @@ Sales monitoring dashboards provide operational insights.
 
 ### Reporting Design
 
-![Reporting Dashboards](confluence/reporting-dashboards.png)
+![Reporting Dashboards](https://raw.githubusercontent.com/serhiiponych27-hub/crm-optimization-business-analysis/refs/heads/main/confluence/confluence%3Areporting-dashboards.png)
 
 ---
 
@@ -310,7 +310,7 @@ The CRM optimization is implemented in multiple phases.
 4. **Training & Rollout**
 5. **Monitoring & Optimization**
 
-![Implementation Roadmap](diagrams/implementation-roadmap.png)
+![Implementation Roadmap](https://raw.githubusercontent.com/serhiiponych27-hub/crm-optimization-business-analysis/refs/heads/main/diagrams/%20implementation-roadmap.png)
 
 ---
 
