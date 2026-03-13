@@ -223,7 +223,7 @@ User stories and backlog items were managed in **Jira**.
 ### Example User Story
 
 ![User Story](jira/user-story-lost-reason-1.png)
-
+![User Story – Lost Reason 2](jira/user-story-lost-reason-2.png)
 ---
 
 # Data Model
