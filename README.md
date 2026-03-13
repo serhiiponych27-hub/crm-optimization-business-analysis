@@ -359,29 +359,39 @@ The CRM optimization enables:
 
 ---
 
-# Tools Used
+# Key Business Analysis Deliverables
 
-**Documentation**
+This project demonstrates the following BA artifacts:
 
-- Confluence
+- business context analysis
+- problem definition
+- AS-IS / TO-BE process modeling
+- business rules definition
+- functional requirements
+- role-based access design
+- data model design
+- KPI framework
+- Jira backlog management
+- implementation roadmap
 
-**Backlog Management**
-
-- Jira
-
-**Process Modeling**
-
-- BPMN diagrams
-
-**Data Modeling**
-
-- ER diagrams
-
-**Version Control**
-
-- GitHub
 
 ---
+
+# Project Summary
+
+This project demonstrates a structured Business Analysis approach to improving CRM sales pipeline management for a design and renovation company.
+
+The analysis focuses on identifying inefficiencies in the current sales process, improving data quality, and introducing clear governance rules for managing Leads and Opportunities.
+
+Key outcomes of the project include:
+
+- structured CRM data model
+- clearly defined business requirements
+- standardized sales pipeline stages
+- improved tracking of lost opportunities
+- defined KPI framework for sales performance monitoring
+
+The repository contains a complete set of Business Analysis artifacts including requirements documentation, process diagrams, data modeling, KPI definitions, and project implementation roadmap.
 
 # Repository Structure
 
@@ -419,18 +429,4 @@ crm-optimization-business-analysis
 │
 └── README.md
 
-
-# Key Business Analysis Deliverables
-
-This project demonstrates the following BA artifacts:
-
-- business context analysis
-- problem definition
-- AS-IS / TO-BE process modeling
-- business rules definition
-- functional requirements
-- role-based access design
-- data model design
-- KPI framework
-- Jira backlog management
-- implementation roadmap
+---
